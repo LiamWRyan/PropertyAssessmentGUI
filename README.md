@@ -10,3 +10,4 @@ Using the Edmonton Open Data Portal API or a previously cached CSV to allow user
 - Complex queries
 - Multi-threading 
 - Non-blocking UI
+- Error handling
